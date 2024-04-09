@@ -8,5 +8,5 @@
 *  Select the name you entered and install **_plugin.program.TAPWiz_**
 
 
-### You can also [download](https://github.com/tapwiz) the .zip file to your local hard drive and install from there.
+### You can also [download](https://github.com/tapwiz](https://tapwiz.github.io/tbw/plugin.program.TBW.zip) the .zip file to your local hard drive and install from there.
 
