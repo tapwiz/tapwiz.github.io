@@ -14,7 +14,7 @@ fanart="https://tapwizard.github.io/Images/nexusfanart.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="Arctic Horizon build for Kodi Nexux 20.2"
+description="Arctic Horizon build for Kodi Nexus 20.2"
 
 name="Dom24"
 version="1.0"
