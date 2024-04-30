@@ -30,5 +30,19 @@ adult="no"
 info="http://"
 description="Dom24 Build for Kodi Nexus"
 
+name="Omega-AH2"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/nhymy6zzvnss6n3rpg3ac/Omega-AH2.zip?rlkey=vx74rb88rfj8wzumpxvpkk3xe&st=8ujtztfd&dl=1"
+minor="http://"
+gui="http://"
+kodi="21"
+theme="http://"
+icon="https://tapwiz.github.io/Images/kodiicon.png"
+fanart="https://tapwiz.github.io/Images/nexusfanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="Arctic Horizon 2 build for Kodi 21 (Omega)."
+
 
 
