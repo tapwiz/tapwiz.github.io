@@ -44,5 +44,19 @@ adult="no"
 info="http://"
 description="Arctic Horizon 2 build for Kodi 21 (Omega)."
 
+name="OmegaFen"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/gmyzgm4hfk9g3uz9a1myl/OmegaFen.zip?rlkey=vx08uwpp0sx8z70mjo5pposfy&st=7istvntl&dl=1"
+minor="http://"
+gui="http://"
+kodi="21"
+theme="http://"
+icon="https://tapwiz.github.io/Images/kodiicon.png"
+fanart="https://tapwiz.github.io/Images/nexusfanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="Kodi Omega (21) build using the Fentastic skin"
+
 
 
