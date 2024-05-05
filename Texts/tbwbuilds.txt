@@ -44,7 +44,7 @@ adult="no"
 info="http://"
 description="Arctic Horizon 2 build for Kodi 21 (Omega)."
 
-name="OmegaFen"
+name="FenOmega"
 version="1.0"
 url="https://archive.org/download/fen-omega/FenOmega.zip"
 minor="https://"
