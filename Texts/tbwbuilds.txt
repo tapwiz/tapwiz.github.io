@@ -46,7 +46,7 @@ description="Arctic Horizon 2 build for Kodi 21 (Omega)."
 
 name="OmegaFen"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/gmyzgm4hfk9g3uz9a1myl/OmegaFen.zip?rlkey=vx08uwpp0sx8z70mjo5pposfy&st=7istvntl&dl=1"
+url="https://archive.org/details/omega-fen"
 minor="https://"
 gui="https://"
 kodi="21"
