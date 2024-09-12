@@ -58,5 +58,19 @@ adult="no"
 info="http://"
 description="Kodi Omega (21) build using the Fentastic skin"
 
+name="ArcticFuse"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/qarg7jay0xr31mqts92kh/ArcticFuse.zip?rlkey=9zjn09nfdyktge2lsae5ch4zk&st=vyyckt57&dl=1"
+minor="https://"
+gui="https://"
+kodi="21"
+theme="https://"
+icon="https://tapwiz.github.io/Images/kodiicon.png"
+fanart="https://tapwiz.github.io/Images/nexusfanart.jpg"
+preview="http://"
+adult="no"
+info="http://"
+description="Kodi 21.1 (Omega) build using the Arctic Fuse skin."
+
 
 
