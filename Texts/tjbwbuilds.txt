@@ -16,6 +16,20 @@ adult="No"
 info="http://"
 description="AngelFace Build for Kodi Nexus"
 
+name="MyBuddy"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/f5orkmdqsbzm9vsw7akss/AngelFace.zip?rlkey=sb5o9fwe7fdjlfsf6oier5ryc&dl=1"
+minor="http://"
+gui="http://"
+kodi="21"
+theme="http://"
+icon="https://tapwiz.github.io/Images/kodiicon.png"
+fanart="https://tapwiz.github.io/Images/nexusfanart.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="MyBuddy Build for Kodi Omega"
+
 
 
 
