@@ -18,7 +18,7 @@ description="AngelFace Build for Kodi Nexus"
 
 name="MyBuddy"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/f5orkmdqsbzm9vsw7akss/AngelFace.zip?rlkey=sb5o9fwe7fdjlfsf6oier5ryc&dl=1"
+url="https://www.dropbox.com/scl/fi/w89neq77gm2cfvs9r33ro/MyBuddy.zip?rlkey=1pnyksavn9hcvem33mae6mvc8&st=fftscpdi&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
