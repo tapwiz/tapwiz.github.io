@@ -14,7 +14,7 @@ fanart="https://tapwiz.github.io/Images/nexusfanart.jpg"
 preview="http://"
 adult="no"
 info="http://"
-description="Kodi 21.1 (Omega) build using the Arctic Fuse 2 skin."
+description="Kodi 21.2 (Omega) build using the Arctic Fuse 2 skin."
 
 name="Dom24"
 version="1.0"
