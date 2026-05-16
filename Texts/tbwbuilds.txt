@@ -30,8 +30,6 @@ adult="no"
 info="http://"
 description="Kodi 21.2 (Omega) build using the Arctic Fuse 2 skin."
 
-
-
 name="Dom24"
 version="1.0"
 url="https://www.dropbox.com/s/1czgsgwjm2lguel/Dom24.zip?dl=1"
@@ -45,6 +43,8 @@ preview="http://"
 adult="no"
 info="http://"
 description="Dom24 Build for Kodi Nexus"
+
+
 
 
 
