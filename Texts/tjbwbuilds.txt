@@ -16,9 +16,9 @@ adult="No"
 info="http://"
 description="TJP Build for Kodi Omega"
 
-name="MyBuddy"
+name="TJP1"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/w89neq77gm2cfvs9r33ro/MyBuddy.zip?rlkey=1pnyksavn9hcvem33mae6mvc8&st=fftscpdi&dl=1"
+url="https://www.dropbox.com/scl/fi/sm2za1yd1djtts8u89n3u/TJP1.zip?rlkey=lfjb6feq1rmxco1s7zy7wid5c&st=kb5hzmkx&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.2"
@@ -28,7 +28,7 @@ fanart="https://tapwiz.github.io/Images/nexusfanart.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="MyBuddy Build for Kodi Omega"
+description="TJP Build for Kodi Omega"
 
 
 
